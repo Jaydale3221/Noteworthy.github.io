@@ -1,4 +1,4 @@
-# NoteMaster - Simple Note-Taking App
+#Noteworthy - Simple Note-Taking App
 
 NoteMaster is a web-based note-taking application that allows users to create, edit, and delete notes. It provides a clean and minimalist interface for organizing your thoughts, ideas, and important information.
 
