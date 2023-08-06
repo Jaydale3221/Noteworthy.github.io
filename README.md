@@ -2,7 +2,7 @@
 
 NoteMaster is a web-based note-taking application that allows users to create, edit, and delete notes. It provides a clean and minimalist interface for organizing your thoughts, ideas, and important information.
 
-![NoteMaster Screenshot](noteworthy.png)
+![NoteMaster Screenshot](note.png)
 
 ## Features
 
