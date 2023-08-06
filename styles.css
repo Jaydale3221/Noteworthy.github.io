@@ -1,0 +1,80 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+.app-container {
+    background-color: #2b2b2b;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 600px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.note-editor input,
+.note-editor button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #333;
+    border-radius: 4px;
+    background-color: #1a1a1a;
+    color: #fff;
+    font-size: 1rem;
+}
+
+.note-editor input::placeholder,
+.note-editor button {
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    background-color: #333;
+    border: none;
+}
+
+.note-editor input:hover,
+.note-editor button:hover {
+    background-color: #444;
+}
+
+.note-editor #editor {
+    border: 1px solid #333;
+    padding: 10px;
+    min-height: 150px;
+    border-radius: 4px;
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+.note-list li {
+    border-bottom: 1px solid #444;
+    padding: 10px 0;
+    margin: 10px 0;
+    list-style: none;
+}
+
+.note-list strong {
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.note-list p {
+    color: #ccc;
+    margin: 0;
+}
