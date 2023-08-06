@@ -4,6 +4,8 @@ Noteworthy is a web-based note-taking application that allows users to create, e
 
 ![NoteMaster Screenshot](note.png)
 
+Alternatively, you can directly access the app online by visiting this [link](https://jaydale3221.github.io/Noteworthy.github.io/).
+
 ## Features
 
 - Create new notes with titles and content.
